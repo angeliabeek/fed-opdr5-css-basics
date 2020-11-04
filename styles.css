@@ -1,0 +1,26 @@
+body { 
+    background-color: lightgrey;
+    color: rgb(78, 74, 74);
+    font: normal 16px comic sans ms, cursive, sans-serif; 
+}
+h2 {
+    font-size: 20px;
+}
+p {
+    line-height: 25px;
+}
+.black-border {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 15px;
+    background-color: rgb(177, 212, 181);
+    border: 2px dashed rgb(12, 83, 12);
+}
+.onderschrift {
+    font-size: 14px;
+    font-weight: bold;
+    font-style: italic;
+}
+footer {
+    font-size: 13px;
+}
